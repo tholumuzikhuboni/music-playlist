@@ -313,7 +313,6 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
 .artist {
   opacity: 0.6;
   margin-block-end: 36px;
-  display: flex;
   text-align: center;
 }
 .views-count {
