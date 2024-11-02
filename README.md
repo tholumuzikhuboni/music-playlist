@@ -1,8 +1,6 @@
-# Dumakahle Music Player
-## Preview
+# Dumakahle Playlist
 
-![Dumakahle Music Player](./images/dumakahle-preview.png)
-A simple music player website created for my favorite Maskandi artist, **Dumakahle**. Built using **HTML**, **CSS**, and **JavaScript**, this web app allows users to play and enjoy a curated selection of Dumakahle's music.
+A simple music player web app inspired by my favorite Maskandi artist, **uDumakahle Nkosi**. Built using **HTML**, **CSS**, and **JavaScript**, this web app allows users to play and enjoy a curated selection of Dumakahle's music.
 
 ## Features
 
@@ -22,4 +20,4 @@ A simple music player website created for my favorite Maskandi artist, **Dumakah
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/tholumuzikhuboni/dumakahle-music-player.git
+   git clone https://github.com/tholumuzikhuboni/dumakahleplaylist.git
