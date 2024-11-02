@@ -314,9 +314,10 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   opacity: 0.6;
   margin-block-end: 36px;
   display: flex;
+  align-items: center;
 }
 .views-count {
-  margin-left: 5px;
+  margin-left: 6px;
 }
 
 .seek-control { margin-block-end: 20px; }
