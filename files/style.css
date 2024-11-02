@@ -310,12 +310,9 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   margin-inline: 4px;
 }
 
-.artist: first-child::after {
+.artist {
   opacity: 0.6;
-  content: "|";
-  display: inline-block;
-  margin-inline: 4px;
-  
+  margin-block-end: 36px;
 }
 .seek-control { margin-block-end: 20px; }
 
