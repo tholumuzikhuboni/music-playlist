@@ -434,30 +434,6 @@ const updateDuration = function () {
 
 audioSource.addEventListener("loadeddata", updateDuration);
 
-  // Increment view count
-  musicData[currentMusic].views++;
-
-  // Format the views (e.g., converting 2000 to "2k")
-  const formattedViews = formatViews(musicData[currentMusic].views);
-
-  // Update artist and view count display
-  document.querySelector("[data-artist]").textContent = musicData[currentMusic].artist;
-  document.querySelector("[data-view-count]").textContent = formattedViews;
-
-  audioSource.src = musicData[currentMusic].musicPath;
-
-  audioSource.addEventListener("loadeddata", updateDuration);
-  playMusic();
-}
-
-// Function to format views
-function formatViews(viewCount) {
-  if (viewCount >= 1000) {
-    return (viewCount / 1000).toFixed(1) + 'k views'; // Formats the number as "X.Xk views"
-  }
-  return viewCount + ' views'; // Less than 1000
-}
-
 
 /**
  * PLAY MUSIC
