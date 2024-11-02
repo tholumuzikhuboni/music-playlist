@@ -175,7 +175,7 @@ for (let i = 0, len = musicData.length; i < len; i++) {
       <div class="item-icon">
         <span class="material-symbols-rounded">equalizer</span>
       </div>
-      <span style="color: white, font-size: 5px" class="music-title">${musicData[i].title}
+      <span style="color: white; font-size: 5px" class="music-title">${musicData[i].title}
     </button>
   </li>
   `;
