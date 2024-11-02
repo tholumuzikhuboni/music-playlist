@@ -683,3 +683,12 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   .music-list { gap: 28px; }
 
 }
+/**
+   * SPAN
+   */
+.span {
+  color: #333;          
+  font-size: 12px;     
+  font-weight: bold;
+  background-color: #f2f2f2;
+}
