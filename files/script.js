@@ -141,6 +141,132 @@ const musicData = [
     artist: "iPhatha's",
     musicPath: "./music/Imali_ngeke_iphele_ft_Anzo.mp3",
   },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Awukabi Yindoda",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Awukabi_Indoda-.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Ilanga",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Ilanga.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Inja Elalendlini",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Inja_Elalendlini.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Ikhehla lase lenke",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Ikhehla_Lase_Lenke.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Umama Onjani",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Umama_Onjani.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "20k",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/20k.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Isono Yini",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Isono_Yini.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Lena Emsiga",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Lena_Emsinga.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Usudlala Ngami",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Usudlala_Ngami.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Udiletha",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Udiletha.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Ibhunguka",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Ibhunguka.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Siluqale Phansi",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Siluqale_Phansi.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Umuhle Kaningi",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Umuhle_Kaningi.mp3",
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/592x592bb.webp",
+    title: "Isina Muva",
+    album: "Ikhehla lase lenke",
+    year: 2023,
+    artist: "uDumakahle",
+    musicPath: "./music/Isina_Muva.mp3",
+  }
 ];
 
 
@@ -175,7 +301,7 @@ for (let i = 0, len = musicData.length; i < len; i++) {
       <div class="item-icon">
         <span class="material-symbols-rounded">equalizer</span>
       </div>
-      <span class="span">${musicData[i].title}
+      <span class="span">${musicData[i].title} </span>
     </button>
   </li>
   `;
@@ -308,7 +434,7 @@ playBtn.addEventListener("click", playMusic);
 
 /** update running time while playing music */
 
-const playerRunningTime = document.querySelector("[data-running-time");
+const playerRunningTime = document.querySelector("[data-running-time]");
 
 const updateRunningTime = function () {
   playerSeekRange.value = audioSource.currentTime;
@@ -493,3 +619,4 @@ const muteVolume = function () {
 }
 
 playerVolumeBtn.addEventListener("click", muteVolume);
+    
