@@ -310,16 +310,13 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   margin-inline: 4px;
 }
 
-.artist {
+.artist: first-child::after {
   opacity: 0.6;
-  margin-block-end: 36px;
+  content: "|";
   display: inline-block;
+  margin-inline: 4px;
   
 }
-.views-count {
-  margin-left: 6px;
-}
-
 .seek-control { margin-block-end: 20px; }
 
 .range-wrapper { position: relative; }
