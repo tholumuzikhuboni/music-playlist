@@ -1,7 +1,6 @@
 'use strict';
 
 
-
 /**
  * all music information
  */
@@ -176,8 +175,7 @@ for (let i = 0, len = musicData.length; i < len; i++) {
       <div class="item-icon">
         <span class="material-symbols-rounded">equalizer</span>
       </div>
-      <span class="music-title">${musicData[i].title}</span> <!-- Add the song title here -->
-      <span class="music-artist">${musicData[i].artist}</span> <!-- Optionally, you can add the artist name -->
+      <span style="color: white" class="music-title">${musicData[i].title}
     </button>
   </li>
   `;
