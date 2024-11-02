@@ -14,6 +14,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/isbhamu.mp3",
+    views: "4k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -23,6 +24,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Angsenandaba.mp3",
+    views: "5k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -32,6 +34,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Makhelwane.mp3",
+    views: "3k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -41,6 +44,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Sazi_Izinsizwa.mp3",
+    views: "1.5k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -50,6 +54,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Mufunwa_wanga.mp3",
+    views: "990"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -59,6 +64,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Ngisendleleni.mp3",
+    views: "6.1k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -68,6 +74,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Ngiyakthanda.mp3",
+    views: "2.8k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -77,6 +84,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Ungezi.mp3",
+    views: "800"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -86,6 +94,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Sizijabulele.mp3",
+    views: "3k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -95,6 +104,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Emendweni.mp3",
+    views: "2k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -104,6 +114,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Usefikile_Umaphathefika.mp3",
+    views: "1.5k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -113,6 +124,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Imali_yami.mp3",
+    views: "1k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -122,6 +134,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Uthando.mp3",
+    views: "3.1k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -131,6 +144,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Emabhaceni.mp3",
+    views: "700"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -140,6 +154,7 @@ const musicData = [
     year: 2024,
     artist: "iPhatha's",
     musicPath: "./music/Imali_ngeke_iphele_ft_Anzo.mp3",
+    views: "3k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -149,6 +164,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Awukabi_Indoda-.mp3",
+    views: "7k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -158,6 +174,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Ilanga.mp3",
+    views: "6k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -167,6 +184,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Inja_Elalendlini.mp3",
+    views: "8k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -176,6 +194,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Ikhehla_Lase_Lenke.mp3",
+    views: "10k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -185,6 +204,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Umama_Onjani.mp3",
+    views: "5k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -194,6 +214,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/20k.mp3",
+    views: "4k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -203,6 +224,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Isono_Yini.mp3",
+    views: "4k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -212,6 +234,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Lena_Emsinga.mp3",
+    views: "13k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -221,6 +244,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Usudlala_Ngami.mp3",
+    views: "9k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -230,6 +254,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Udiletha.mp3",
+    views: "6k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -239,6 +264,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Ibhunguka.mp3",
+    views: "3k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -248,6 +274,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Siluqale_Phansi.mp3",
+    views: "6.8k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -257,6 +284,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Umuhle_Kaningi.mp3",
+    views: "2.9k"
   },
   {
     backgroundImage: "./images/dumakahle_background.JPG",
@@ -266,6 +294,7 @@ const musicData = [
     year: 2023,
     artist: "uDumakahle",
     musicPath: "./music/Isina_Muva.mp3",
+    views: "3.4k"
   }
 ];
 
@@ -405,6 +434,29 @@ const updateDuration = function () {
 
 audioSource.addEventListener("loadeddata", updateDuration);
 
+  // Increment view count
+  musicData[currentMusic].views++;
+
+  // Format the views (e.g., converting 2000 to "2k")
+  const formattedViews = formatViews(musicData[currentMusic].views);
+
+  // Update artist and view count display
+  document.querySelector("[data-artist]").textContent = musicData[currentMusic].artist;
+  document.querySelector("[data-view-count]").textContent = formattedViews;
+
+  audioSource.src = musicData[currentMusic].musicPath;
+
+  audioSource.addEventListener("loadeddata", updateDuration);
+  playMusic();
+}
+
+// Function to format views
+function formatViews(viewCount) {
+  if (viewCount >= 1000) {
+    return (viewCount / 1000).toFixed(1) + 'k views'; // Formats the number as "X.Xk views"
+  }
+  return viewCount + ' views'; // Less than 1000
+}
 
 
 /**
