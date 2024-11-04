@@ -295,7 +295,17 @@ const musicData = [
     artist: "uDumakahle",
     musicPath: "./music/Isina_Muva.mp3",
     views: "3.4k"
-  }
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Wagqoka Bo Wesbali",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Wagqoka_Bo_Wesbali.mp3",
+    views: "19k"
+  }  
 ];
 
 
