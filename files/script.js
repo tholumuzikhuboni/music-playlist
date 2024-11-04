@@ -439,7 +439,7 @@ const musicData = [
     year: 2022,
     artist: "uDumakahle",
     musicPath: "./music/Umlanjwana.mp3",
-  }
+  },
 ];
 
 
