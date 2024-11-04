@@ -305,7 +305,157 @@ const musicData = [
     artist: "uDumakahle",
     musicPath: "./music/Wagqoka_Bo_Wesbali.mp3",
     views: "19k"
-  }  
+  },
+    {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Isdingo Sempilo",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Isdingo_Sempilo.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Amagama Amnandi",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Amagama_Amnandi.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Bafuna Sihlukane",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Bafuna_Sihlukane(feat. Nomfundo Moh).mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "S'qhuba Izinkomo",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Sqhuba_Izinkomo.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Ejele",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Ejele.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Uchomangani",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Uchomangani.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Ifoni Yami",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Ifoni_Yami.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Uqeda Mathe Mahhala",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Uqeda_Mathe_Mahhala.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Awonile",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Awonile.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Nqabeleni",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Nqabeleni.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Kuyenzeka",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Kuyenzeka.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Kwampumelelo",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Kwampumelelo.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Angiyi Ekhaya",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Angiyi_Ekhaya.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Amandla Edlozi",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Amandla_Edlozi.mp3",
+    views: "4k"
+  },
+  {
+    backgroundImage: "./images/dumakahle_background.JPG",
+    posterUrl: "./images/Udumakahle.jpg",
+    title: "Umlanjwana",
+    album: "S'qhuba Izinkomo",
+    year: 2022,
+    artist: "uDumakahle",
+    musicPath: "./music/Umlanjwana.mp3",
+    views: "4k"
+  },
 ];
 
 
