@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Preview Image</title>
+
+    <style>
+        :root {
+      /* colors */
+      --bg-gradient: linear-gradient(to bottom right, hsl(240, 1%, 25%) 3%, hsl(0, 0%, 19%) 97%);
+      --text-gradient-yellow: linear-gradient(to right, hsl(45, 100%, 72%), hsl(35, 100%, 68%));
+      --white: hsl(0, 0%, 100%);
+      --smoky-black: hsl(0, 0%, 7%);
+      --orange-yellow: hsl(45, 100%, 72%);
+      --eerie-black: hsl(240, 2%, 13%);
+      --shadow: 0 16px 40px hsla(0, 0%, 0%, 0.25);
+
+        body {
+            font-family: 'Roboto Mono', monospace;
+            background-color: #f4f4f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .preview-container {
+            width: 1200px;
+            height: 630px;
+            background-color: hsl(0, 0%, 7%);
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .preview-title {
+            font-size: 48px;
+            color: hsl(35, 100%, 68%);
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        .preview-tagline {
+            font-size: 24px;
+            color: hsl(0, 0%, 100%);
+            margin-bottom: 30px;
+            line-height: 1.5;
+        }
+
+        .preview-description {
+            font-size: 18px;
+            color: hsl(0, 0%, 100%);
+            margin-bottom: 40px;
+            max-width: 80%;
+        }
+
+        .cta-button {
+            background-color: hsl(35, 100%, 68%);
+            color: hsl(0, 0%, 7%);
+            padding: 12px 30px;
+            font-size: 18px;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #218838;
+        }
+
+        .preview-footer {
+            font-size: 16px;
+            color: hsl(0, 0%, 100%);
+            margin-top: 30px;
+        }
+
+        .background-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://www.transparenttextures.com/patterns/triangle.png');
+            opacity: 0.1;
+        }
+    </style>
+</head>
+<body>
+    <div class="preview-container">
+        <div class="background-overlay"></div>
+        <div class="preview-title">Tholumuzi Khuboni</div>
+        <div class="preview-tagline">Hi and welcome to my portfolio, i am a frontend developer and security analyst.</div>
+        <div class="preview-description">
+            This portfolio is built using HTML, CSS and JavaScript.
+        </div>
+        <a href="#" class="cta-button">Browse My Portfolio</a>
+        <div class="preview-footer">© 2024 Tholumuzi Khuboni</div>
+    </div>
+</body>
+</html>
