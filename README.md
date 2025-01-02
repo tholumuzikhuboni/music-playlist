@@ -1,9 +1,9 @@
 
-# Music Player Web Application
+# Music Playlist
 
 ## Overview
 
-This is a **Music Player Web Application** that allows users to interact with and explore a playlist of uDumakahle music tracks. The app features a dynamic playlist, a toggleable sidebar, and the ability to play and pause music. It is designed with HTML, CSS, and JavaScript.
+This is a **Music Playlist Web App** that allows users to interact with and explore a playlist of uDumakahle music tracks. The app features a dynamic playlist, a toggleable sidebar, and the ability to play and pause music. It is designed with HTML, CSS, and JavaScript.
 
 ## Features
 
