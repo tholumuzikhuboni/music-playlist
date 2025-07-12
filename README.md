@@ -1,4 +1,4 @@
-# <div align="center">🎵 Music Playlist Web App 🎵</div>
+# <div align="center">🎵 Music Playlist App</div>
 
 <div align="center">
   <strong>An interactive web application to explore and enjoy a playlist of uDumakahle music.</strong>
