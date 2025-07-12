@@ -1,7 +1,7 @@
 # <div align="center">🎵 Music Playlist App</div>
 
 <div align="center">
-  <strong>An interactive web application to explore and enjoy a playlist of uDumakahle music.</strong>
+  <p>An interactive web application to explore and enjoy a playlist of uDumakahle music.</p>
 </div>
 
 <br />
