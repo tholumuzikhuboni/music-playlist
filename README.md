@@ -1,4 +1,4 @@
-# Music Playlist Web App
+# Music Playlist App
 
 Welcome! This project was built by [Tholumuzi](https://portfolio.tholumuzi.co.za).
 
