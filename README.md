@@ -1,6 +1,6 @@
 # Music Playlist App
 
-Welcome! This project was built by [Tholumuzi](https://portfolio.tholumuzi.co.za).
+Welcome, to the uDumakahle Playlist Web App! This project was built by [Tholumuzi](https://portfolio.tholumuzi.co.za).
 
 ## Getting Started
 
